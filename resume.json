@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Clarielle Larissa ANDRAINASOA",
+    "label": "Programmer",
+    "picture": "https://s25.postimg.cc/sminxppvz/1960289728.jpg",
+    "email": "lary2kouan@rocketmail.com",
+    "phone": "(+33) 06 22 454 64 71",
+    "website": "http://live-taolab.pantheonsite.io/",
+    "summary": "A dreamer | an otaku | an animal lover | a programmer | a bookworm",
+    "location": {
+      "address": "Wuhan Institute of Technology",
+      "postalCode": "43000",
+      "city": "Wuhan",
+      "countryCode": "CN",
+      "region": "Hubei"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "TaoWritesCode",
+        "url": "https://github.com/TaoWritesCode"
+      },
+      {
+        "network": "Twitter",
+        "username": "alc3and",
+        "url": "https://twitter.com/alc3and"
+      },
+      {
+        "network": "Linkedin",
+        "username": "clarielle-larissa-andrainasoa-599417106",
+        "url": "https://www.linkedin.com/in/clarielle-larissa-andrainasoa-599417106/"
+      }
+    ]
+  },
+  "work": [
+    
+  ],
+  "volunteer": [
+    
+  ],
+  "education": [
+    {
+      "institution": "Institut Supérieur Polytechnique de Madagascar",
+      "area": "Informatique de Gestion, Genie Logiciel",
+      "studyType": "Bachelor",
+      "startDate": "2011-11-01",
+      "endDate": "2014-08-01",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+    {
+    }
+  ],
+  "skills": [
+    {
+      "name": "Développement Web",
+      "level": "advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJs",
+        "Java",
+        "Wordpress"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "HSK 4"
+    },
+    {
+      "language": "Malagasy",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Book",
+      "keywords": [
+        "Mystery",
+        "Young Adult Romance",
+        "Self-Development"
+      ]
+    },
+    {
+      "name": "Japanese Culture",
+      "keywords": [
+        "Manga",
+        "Anime"
+      ]
+    }
+  ],
+  "references": [
+    
+  ]
+}
